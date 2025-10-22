@@ -1,0 +1,31 @@
+THE GREAT NORTHEASTERN RACING ADVENTURE
+A Madlibs Story for Oasis and NER
+
+Instructions: Fill in the blanks below with the requested word types.
+When multiple people edit the same blank, git will create merge conflicts!
+
+One _______ (adjective) day at Northeastern University, the Oasis club and 
+the NER team decided to work together on a _______ (adjective) project. 
+They needed to build a _______ (noun) that could _______ (verb) faster 
+than any other _______ (noun) in the competition.
+
+The team's best _______ (occupation) said, "We need to _______ (verb) 
+this challenge with _______ (noun)!" Everyone agreed and started to 
+_______ (verb) immediately. The NER team brought their _______ (adjective) 
+electric car, which could go _______ (number) miles per hour.
+
+As they tested the vehicle, something _______ (adjective) happened. The 
+car suddenly started to _______ (verb), and everyone screamed 
+"_______ (exclamation)!" The _______ (adjective) spectators couldn't 
+believe their _______ (body part plural).
+
+In the end, both teams learned that _______ (verb ending in -ing) together 
+makes everything more _______ (adjective). They celebrated by eating 
+_______ (plural noun) and drinking _______ (beverage). It was truly a 
+_______ (adjective) day for everyone at Northeastern!
+
+The moral of the story: Always _______ (verb) your code before you 
+_______ (verb) it, and never _______ (verb) without testing first!
+
+---
+THE END
