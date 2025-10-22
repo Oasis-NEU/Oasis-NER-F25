@@ -14,11 +14,6 @@ this challenge with _______ (noun)!" Everyone agreed and started to
 _______ (verb) immediately. The NER team brought their _______ (adjective) 
 electric car, which could go _______ (number) miles per hour.
 
-Meanwhile, the Oasis developers were _______ (verb ending in -ing) on their 
-_______ (adjective) laptops, writing _______ (plural noun) in 
-_______ (programming language). One team member exclaimed, "This code is 
-more _______ (adjective) than a _______ (noun)!"
-
 As they tested the vehicle, something _______ (adjective) happened. The 
 car suddenly started to _______ (verb), and everyone screamed 
 "_______ (exclamation)!" The _______ (adjective) spectators couldn't 
@@ -34,6 +29,3 @@ _______ (verb) it, and never _______ (verb) without testing first!
 
 ---
 THE END
-
-Git Collaboration Tip: When you edit this file, try filling in the same 
-blanks as your teammates to practice resolving merge conflicts!
