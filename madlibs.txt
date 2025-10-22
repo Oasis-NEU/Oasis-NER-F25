@@ -45,28 +45,3 @@ As Paws drifted off to sleep, his last thought was about _______________. Tomorr
 Because at Northeastern, every day is _______________ [adjective], every student is _______________ [adjective], and Paws wouldn't have it any other way.
 
 **Go Huskies! 🐺❤️🖤**
-
-<<<<<<< Updated upstream
-The team's best _______ (occupation) said, "We need to _______ (verb) 
-this challenge with _______ (noun)!" Everyone agreed and started to 
-_______ (verb) immediately. The NER team brought their _______ (adjective) 
-electric car, which could go _______ (number) miles per hour.
-
-As they tested the vehicle, something _______ (adjective) happened. The 
-car suddenly started to dance (verb), and everyone screamed 
-"_______ (exclamation)!" The _______ (adjective) spectators couldn't 
-believe their _______ (body part plural).
-
-In the end, both teams learned that _______ (verb ending in -ing) together 
-makes everything more _______ (adjective). They celebrated by eating 
-_______ (plural noun) and drinking _______ (beverage). It was truly a 
-_______ (adjective) day for everyone at Northeastern!
-
-The moral of the story: Always _______ (verb) your code before you 
-_______ (verb) it, and never _______ (verb) without testing first!
-
----
-THE END
-=======
----
->>>>>>> Stashed changes
